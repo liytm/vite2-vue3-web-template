@@ -1,9 +1,10 @@
 # vite2-vue3-h5-template
-> 基于 Vite2、Vue3.x、Vue Router 4.x、Typescript、Eslint、Prettier 等库，是一个开箱即用得Vue3 项目脚手架，助您快速开发 vue项目
+
+> 基于 Vite2、Vue3.x、Vue Router 4.x、Typescript、Eslint、Prettier 等库，是一个开箱即用得 Vue3 项目脚手架，助您快速开发 vue 项目
 
 ### 功能列表
 
-- [x] vw视口适配
+- [x] vw 视口适配
 - [x] pinia
 - [x] vue router
 - [x] axios 请求封装
@@ -12,9 +13,7 @@
 - [x] stylelint css 样式风格检查
 - [ ] ...
 
-
-
-**难点：stylelint配置，新版本配置比较麻烦**
+**难点：stylelint 配置，新版本配置比较麻烦**
 
 参考：
 
@@ -22,7 +21,7 @@
 
 [https://juejin.cn/post/7057029473979334692#comment](https://juejin.cn/post/7057029473979334692#comment)
 
-**难点：移动端适配**，px-2-vw插件不支持postcss8.x，
+**难点：移动端适配**，px-2-vw 插件不支持 postcss8.x，
 
 [https://juejin.cn/post/7046169975706353701#heading-0](https://juejin.cn/post/7046169975706353701#heading-0)
 
@@ -149,4 +148,3 @@ yarn add global cz-conventional-changelog
 [https://cn.vitejs.dev/guide/](https://cn.vitejs.dev/guide/)
 
 [https://juejin.cn/post/7055878408365932557#comment](https://juejin.cn/post/7055878408365932557#comment)
-
